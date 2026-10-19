@@ -29,3 +29,7 @@ $work-evidence-assistant
 ## 隐私
 
 仓库仅存技能规则、说明和虚构示例。不要提交真实工作记录、公司内部链接、聊天记录、截图、录音、账号凭据或密钥。真实记录请保存在公司允许的位置。
+
+## 许可
+
+Copyright (c) 2026 Longer430。采用 [MIT License](LICENSE) 发布。
