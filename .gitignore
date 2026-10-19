@@ -1,0 +1,11 @@
+# Local credentials and private records must stay outside this repository.
+.env
+.env.*
+!.env.example
+credentials*
+*.pem
+*.key
+records/
+private/
+screenshots/
+recordings/
